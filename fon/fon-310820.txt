@@ -1,0 +1,32 @@
+
+WANs - wide area networks, connect LANs -- can use copper, fibre or wireless -- usually slower, larger geographically
+    Public - i.e. the Internet
+    Private - for private use ("an internet")
+
+Types of large-scale networks:
+    The Internet - Extranet - Intranet
+    The world    - Clients  - Institution only
+
+Types of home internet connections:
+    DSL - telephone line
+    Cable - television cable
+    Cellular
+    Satellite
+    Dial-up telephone - telephone line, can't use internet during call
+
+Types of business internet connections:
+    Dedicated leased lines - "reserved" lines by ISP
+    VPN - privatized connection through the Internet
+    Metro ethernet - long-distance LAN-like technology
+    Business DSL - undiluted form of DSL
+    Satellite
+
+Problem: telephone, video, data (fax?) etc. use different protocols...
+    Converging network - combines all services
+
+    Creates a single point of failure --- ensure reliability!
+        Reliable networks:
+            Fault tolerance:
+                Have 2 ISPs, have 2 routers etc.
+            
+Internet is maintained by: IETF, ICANN, IAB
