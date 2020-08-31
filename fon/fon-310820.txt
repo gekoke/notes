@@ -1,32 +1,83 @@
+--- Types of networks ---
 
-WANs - wide area networks, connect LANs -- can use copper, fibre or wireless -- usually slower, larger geographically
-    Public - i.e. the Internet
-    Private - for private use ("an internet")
+    WANs - wide area networks, connect LANs -- can use copper, fibre or wireless -- usually slower, larger geographically
+        Public - i.e. the Internet
+        Private - for private use ("an internet")
 
-Types of large-scale networks:
-    The Internet - Extranet - Intranet
-    The world    - Clients  - Institution only
 
-Types of home internet connections:
-    DSL - telephone line
-    Cable - television cable
-    Cellular
-    Satellite
-    Dial-up telephone - telephone line, can't use internet during call
+    Types of large-scale networks:
+        The Internet - Extranet - Intranet
+        The world    - Clients  - Institution only
 
-Types of business internet connections:
-    Dedicated leased lines - "reserved" lines by ISP
-    VPN - privatized connection through the Internet
-    Metro ethernet - long-distance LAN-like technology
-    Business DSL - undiluted form of DSL
-    Satellite
+    Types of home internet connections:
+        DSL - telephone line
+        Cable - television cable
+        Cellular
+        Satellite
+        Dial-up telephone - telephone line, can't use internet during call
+
+    Types of business internet connections:
+        Dedicated leased lines - "reserved" lines by ISP
+        VPN - privatized connection through the Internet
+        Metro ethernet - long-distance LAN-like technology
+        Business DSL - undiluted form of DSL
+        Satellite
+
+
+    Internet is maintained by: IETF, ICANN, IAB
+
+
+--- Converging networks --- 
+
 
 Problem: telephone, video, data (fax?) etc. use different protocols...
     Converging network - combines all services
 
     Creates a single point of failure --- ensure reliability!
+        
         Reliable networks:
             Fault tolerance:
                 Have 2 ISPs, have 2 routers etc.
+                    - fun example: president never travels with second-in-line to power, in case they both die/get injured in the same place
+                    - "fun" example 2: WTC had back-up facilities/databases/staff and therefore functioned normally after 9/11
             
-Internet is maintained by: IETF, ICANN, IAB
+            Scalability:
+                Ensure no performance degradation when userbase etc. increases
+
+            Quality of Service:
+                Different services are prioritized differently:
+                    - emails, file transfers take a bit longer -- Acceptable
+                    - streaming, calls are not prioritized     -- Unacceptable 
+            
+            Security:
+                Network infrastructure security:
+                    - ensure the thing doesn't burn to the ground
+                    - ensure that unauthorized persons can't physically access the network
+
+                Information security:
+                    - ensure that the information is not available to unauthorized persons
+
+
+--- Recent network trends ---
+
+
+- Cloud computing
+- Video communications / collaboration
+- Smart home
+    Cook scheduled meals, notify if out of eggs etc.
+- Powerline networking
+    Attach a powerline adapter:
+        converts home electricity into an information transfer medium
+
+
+--- Network security ---
+
+
+External threats
+    - DDoS
+    - Words, trojans etc.
+
+Internal threats
+    - Malicious employees
+    - Accidental misuse
+    - Lost devices
