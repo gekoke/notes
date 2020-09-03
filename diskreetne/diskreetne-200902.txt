@@ -1,0 +1,19 @@
+--- Lausearvutus
+    Statementile saab assignida true/false
+
+--- Matemaatiline loogika
+    truth tableid, f(x1, x2, x3...) => {f1, f2...}
+    x sirge katusega on !x
+
+--- Hulgateooria
+    Kuuluvus jne.
+
+--- Graafiteeoria
+    lähiskoodid - erinevad vaid ühes koordinaadis (nt. (0, 0, 0), (0, 1, o))
+    lähiskodeerimine - kas 2^n nodeide hulgaga graafil saab tähistata igat nodei n pikkusega binaararvuga, mis oleks lähiskood naabernodeide suhtes?
+    näide - kuubi tippude puhul saab
+
+--- Algoritmika
+    Time complexity
+    Space complexity
+    P vs NP
