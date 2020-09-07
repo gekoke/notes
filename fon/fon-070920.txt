@@ -10,10 +10,29 @@ Modes in Cisco IOS:
             - Line config mode (Console, SSH configuration)
             - Interface config mode (used to configure interface I guess)
 
-
 Boot sequence:
     - POST:
         - ROM (reads instructions)
         - Flash (moves OS to RAM)
         - Moves startup-config from NVRAM (non-volatile) to RAM
     - startup-config is saved to NVRAM, which is a type of RAM that is persitent across power-losses
+
+
+IP address structure:
+    - 192.168.1  --- Network
+        - Continent -> Country -> City
+    - .1         --- Host
+    - .0         --- means "x", or any host, used to signify network addresses
+
+    - Subnet masks:
+        - Signifies if certain part of IP address represents network, or host
+        - 255 means network, 0 means host
+
+    - Gateway:
+        - Host in the network that acts as gate to Internet
+
+    - DNS:
+        - Converts web address to IP address
+
+    - Switches:
+        - Only have VLAN(?)
