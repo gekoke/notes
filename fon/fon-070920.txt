@@ -36,3 +36,11 @@ IP address structure:
 
     - Switches:
         - Only have VLAN(?)
+
+Communication protocols:
+    - Flow Control:
+        - Sender and receiver agree on flow rate
+    - Response Timeout:
+        - How long device keeps trying to contact receiver
+    - Access Method:
+        - If medium is shared, users have to agree how to share it to prevent collissions
