@@ -2,3 +2,22 @@ Methods of accessing a routing device:
     - Console (physical port)
     - SSH (Secure Shell), over network (encrypted)
     - Telnet, over network (plaintext)
+
+Modes in Cisco IOS:
+    - User EXEC (read only):
+    - Privileged EXEC:
+        - Global config mode (config):
+            - Line config mode (Console, SSH configuration)
+            - Interface config mode (used to configure interface I guess)
+
+
+Boot sequence:
+    - POST:
+        - reads OS from ROM (read-only memory)
+        - flashes OS to RAM
+    - Config files:
+        - in RAM:
+            - running-config
+        - in NVRAM:
+            - startup-config
+            - persistent across power-losses
