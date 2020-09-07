@@ -15,5 +15,5 @@ Boot sequence:
     - POST:
         - ROM (reads instructions)
         - Flash (moves OS to RAM)
-        - Moves startup-config from NVRAM to RAM
+        - Moves startup-config from NVRAM (non-volatile) to RAM
     - startup-config is saved to NVRAM, which is a type of RAM that is persitent across power-losses
