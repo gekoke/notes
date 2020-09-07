@@ -1,0 +1,4 @@
+Methods of accessing a routing device:
+    - Console (physical port)
+    - SSH (Secure Shell), over network (encrypted)
+    - Telnet, over network (plaintext)
