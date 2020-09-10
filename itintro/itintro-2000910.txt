@@ -36,8 +36,33 @@
     - Engelbart Stanfordis
         - Klaviatuur, hiir, window manager, remote collaboration jne
 
+- 1969:
+    - Esimene mikroprotsessor ehk CPU
+    - Algselt oli eksperiment jaapani kliendi jaoks
+
+- 1970:
+    - Xerox avab Palo Alto Research Centeri (PARC)
+    - Intel loob esimese kommertsiaalselt saadava DRAM chipi
+
+- Photolitography
+    -> Valgusallikas
+    -> Mask (laseb ainult teatud kohtadest valgust läbi)
+    -> Lääts, et koondada valgust (väiksemaks)
+    -> Räniplaadile kantakse väike märge
+
+- Trigger
+    Tagasisidega gate, mille läbivoolu saab katkestada sõltumatult
+
+- Mälu tüübid
+    - Registrid (CPU state, flagid jne)
+    - Cacheid (SRAM, Static RAM, ei pea vooluga täitma)
+    - Tavamälu/RAM (DRAM, Dynamic RAM, peab vooluga täitma)
+        - Kondensaatorid + transistorid (kui oli voolu, siis replenishime voolu perioodiliselt) 
+    - Driveid
+
 - Oluline:
     - Integraalskeem (integrated circuit)
         - Ühel silikoonplaadil transistorid
     - Mikroprotesessor
         - Terve CPU ühel integraalskeemil
+
