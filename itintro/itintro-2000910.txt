@@ -60,6 +60,16 @@
         - Kondensaatorid + transistorid (kui oli voolu, siis replenishime voolu perioodiliselt) 
     - Driveid
 
+- Kolm eri arhitektuuri:
+    - CISC
+        - Complex instruction set
+            - Intel ja AMD   
+            - Väga palju kihte ja abstraktsioone
+    - RISC
+        - Reduced instruction set
+            - ARM (mobiilid)
+    - GPUd
+
 - Oluline:
     - Integraalskeem (integrated circuit)
         - Ühel silikoonplaadil transistorid
