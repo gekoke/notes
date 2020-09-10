@@ -1,0 +1,43 @@
+- 1947 - 1960:
+    - Transistor
+    - Kõvakettad
+    - Arvutite tööstuslik tootmine (IBM)
+    - Fortran (esimene "päris" programmeerimiskeel)
+
+    - Shockley Semiconductors 
+        -> lagunes -> AMD ja Intel
+    - Texas Instruments, Fairchild 
+        - integrated circuit (blokk transistoreid ühel materjalil)
+    - AT&T
+        - Esimene modem
+
+    - COBOL
+        - Common Business Oriented Language
+    - LISP
+        - Disainitud AI programmide jaoks
+        - Levinud edukalt NA, aga mitte EU
+        -> Scheme
+            -> JavaScript (ideed)
+
+    - Esimene pela:
+        - Space War!
+
+- 1964:
+    - IBM announces System/360
+        - 6 interoperable arvutit ja 40 peripherali
+
+- 1967:
+    - IBM invents first floppy disk
+
+- 1968:
+    - Intel Corporation founded (Noyce, Moore)
+        - Lahkusid Fairchild Semiconductorsist
+    
+    - Engelbart Stanfordis
+        - Klaviatuur, hiir, window manager, remote collaboration jne
+
+- Oluline:
+    - Integraalskeem (integrated circuit)
+        - Ühel silikoonplaadil transistorid
+    - Mikroprotesessor
+        - Terve CPU ühel integraalskeemil
