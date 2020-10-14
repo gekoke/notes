@@ -1,0 +1,15 @@
+- Stonks
+    - Tundub ok
+    - Layout on päris laialivalgunud. Disainile/organiseeritusele/mõtestatusele tuleb varsti rõhku panna, muidu projekti maintainimine muutub raskeks
+
+- WARGIWU
+    - Ma arvan, et idee ja disain on väga sidus ja mõjuv. Plaani järgides peaks ka teostus tulema suhteliselt hea.
+
+- ATJEE
+    - Peamenüü pärast sisse logimist ei näe väga "clean" välja.
+    - Üldiselt võiksid kõik väljad olla rohkem kondenseeritud
+    - Navigatsioon ja ülesehitus appil tundub väga sidus ja - erinevalt meie rakendusest - mitte spagett.
+    - Samas layout annab sellist arhailst 90s veebi vibei
+
+    - Kokkuvõttes, ülesehitus tundub päris hea olevat, aga disaini kaudu tuleb infoüleküllust kasutajast peita.
+

@@ -1,0 +1,36 @@
+- Erinevate loogikafunktsioonide arv
+    - Kujul f(x1, x2, ..., xn)
+        - K = 2^2^n, kus n on x-ide hulk
+
+- Kahe muutuja funktsioonid
+    - f1
+        AND
+    - f6
+        XOR
+    - f7
+        OR
+    - f8
+        NOT OR (Peirce'i nool)
+    - f9
+        Ekvivalents
+    - f14
+        NOT AND (Shefferi kriips)
+
+Matemaatilise loogika põhiseadused:
+    - Idempotentsusseadused
+        x && x == x
+        x || x == x
+    - Kommutatiivsusseadused
+        x1 && x2 == x2 && x1
+        x1 || x2 == x2 || x1
+    - Assotsiatiivsusseadused
+        (x1 && x2) && x3 == x1 && (x2 && x3)
+        (x1 || x2) || x3 == x1 || (x2 || x3)
+    - Distributiivsusseadused
+        x1 && (x2 || x3) == x1 && x2 || x1 && x3
+        x1 || (x2 && x3) == (x1 || x2) && (x1 || x3)
+    - Topelteituse seadus
+        !!x == x
+    - De Morgani seadused
+        !(x1 && x2) == !x1 || !x2
+        !(x1 || x2) == !x1 && !x2
