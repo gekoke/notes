@@ -10,6 +10,7 @@
     - Üldiselt võiksid kõik väljad olla rohkem kondenseeritud
     - Navigatsioon ja ülesehitus appil tundub väga sidus ja - erinevalt meie rakendusest - mitte spagett.
     - Samas layout annab sellist arhailst 90s veebi vibei
+    - Kas olete kindel, et veebipood on ülesande "scopeis?" Võib olla peaks keskenduma rohkem appi algsele funktsionaalsusele, et hoiduda ideede laiali valgumisest.
 
     - Kokkuvõttes, ülesehitus tundub päris hea olevat, aga disaini kaudu tuleb infoüleküllust kasutajast peita.
 
